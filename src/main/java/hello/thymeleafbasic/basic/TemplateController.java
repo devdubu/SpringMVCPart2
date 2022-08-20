@@ -23,4 +23,3 @@ public class TemplateController {
         return "template/layoutExtend/layoutExtendMain";
     }
 }
-ㅇㅇㅇㄹㅁㄴㅇㄹㅁㅇㄴㄹ6
